@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background: linear-gradient(#08ff29 0%, #2200ff 100%);
+    
+}
+img{
+    border-radius: 40%;
+    width: 299px;
+    
+}
+
+h1 {
+    font-family: fantasy;
+}
+
+section{
+     text-align: center;
+    background: linear-gradient(#b25a38 0%, #fc0303 100%);
+    
+    
+}
